@@ -1,0 +1,5 @@
+speed,500,
+maxSpeed,500,
+maxScore,5000,
+enemy_on,1,
+
